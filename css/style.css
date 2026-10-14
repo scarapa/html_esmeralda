@@ -1065,3 +1065,11 @@ html.high-contrast .main-nav .nav-cta {
     transition-duration: 0.01ms !important;
   }
 }
+
+.bp{ border:1px solid black; }
+.bg{ border:1px solid grey; }
+
+#logo.img-thumbnail  { 
+  background-color: transparent !important;
+  border: 0px !important; 
+}
